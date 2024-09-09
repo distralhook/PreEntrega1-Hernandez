@@ -1,7 +1,7 @@
 import { Flex,Button,Text } from "@chakra-ui/react";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 
-const CartWidget = () => {
+export const CartWidget = () => {
     return(
         <Flex >
             <Button>
@@ -11,5 +11,3 @@ const CartWidget = () => {
         </Flex>
     )
 }
-
-export default CartWidget;

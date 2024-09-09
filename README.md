@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 NOTES FOR MYSELF:
 - ALWAYS RUN ON THE TERMINAL: npm run dev
 - ALL REACT FILES (.JSX) FIRST LETTER HAS TO BE IN MAYUSCULE
+- rafc iniciara un componente funcional con arrow function y export
+- rafce iniciara un componente funcional con arrow function y export default
+- rafcp
